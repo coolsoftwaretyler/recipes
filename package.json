@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": ".eleventy.js",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0",
     "clean-css": "^4.2.3",
     "terser": "^4.6.10"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
