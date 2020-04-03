@@ -1,3 +1,7 @@
+---
+layout: layouts/default.html
+---
+
 # Creamy Garlic Chicken 
 
 ## Ingredients 
