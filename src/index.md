@@ -2,6 +2,7 @@
 layout: layouts/default.html
 ---
 
-[Creamy garlic chicken](/creamy-garlic-chicken)
-[Honey Sriracha chicken](/honey-sriracha-chicken-slow-cooker)
-[Slow Cooker Chicken Noodle Soup](/slow-cooker-chicken-noodle-soup)
+* [Creamy garlic chicken](/creamy-garlic-chicken)
+* [Honey Sriracha chicken](/honey-sriracha-chicken-slow-cooker)
+* [Taco mix](/taco-mix)
+* [Slow Cooker Chicken Noodle Soup](/slow-cooker-chicken-noodle-soup)
