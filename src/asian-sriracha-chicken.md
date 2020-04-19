@@ -2,7 +2,7 @@
 layout: layouts/default.html 
 ---
 
-# Slow Cooker Chicken Noodle Soup 
+# Asian Sriracha Chicken
 
 ## Ingredients
 
