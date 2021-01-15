@@ -12,3 +12,4 @@ layout: layouts/default.html
 * [Mashed Potatoes for Two](/mashed-potatoes-for-two)
 * [Slow Cooker Chicken Noodle Soup](/slow-cooker-chicken-noodle-soup)
 * [Taco Mix](/taco-mix)
+* [Thai Red Curry Noodle Soup](/thai-red-curry-noodle-soup)

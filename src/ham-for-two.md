@@ -2,7 +2,7 @@
 layout: layouts/default.html
 ---
 
-# Italian Sausage and Penne
+# Ham for Two
 
 ## Ingredients
 
