@@ -2,7 +2,7 @@
 layout: layouts/default.html
 ---
 
-* [Aglio E Olio](/aglio-e-olio.md)
+* [Aglio E Olio](/aglio-e-olio)
 * [Asian Sriracha Chicken](/asian-sriracha-chicken)
 * [Broccoli Cheddar Soup](/broccoli-cheddar-soup)
 * [Chicken Shawarma](/chicken-shawarma)
