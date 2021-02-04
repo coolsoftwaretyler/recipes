@@ -13,5 +13,6 @@ layout: layouts/default.html
 * [Italian Sausage and Penne](/italian-sausage-and-penne)
 * [Mashed Potatoes for Two](/mashed-potatoes-for-two)
 * [Slow Cooker Chicken Noodle Soup](/slow-cooker-chicken-noodle-soup)
+* [Slow Cooker Tuscan Sausage Soup](/slow-cooker-tuscan-sausage-soup)
 * [Taco Mix](/taco-mix)
 * [Thai Red Curry Noodle Soup](/thai-red-curry-noodle-soup)
