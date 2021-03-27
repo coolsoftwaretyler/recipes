@@ -16,5 +16,6 @@ layout: layouts/default.html
 * [Rigatoni Vodka Sauce](/rigatoni-vodka-sauce)
 * [Slow Cooker Chicken Noodle Soup](/slow-cooker-chicken-noodle-soup)
 * [Slow Cooker Tuscan Sausage Soup](/slow-cooker-tuscan-sausage-soup)
+* [Summer Couscous Salad](/summer-couscous-salad)
 * [Taco Mix](/taco-mix)
 * [Thai Red Curry Noodle Soup](/thai-red-curry-noodle-soup)
