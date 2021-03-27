@@ -2,6 +2,10 @@
 layout: layouts/default.html
 ---
 
+# Summer Couscous Salad
+
+## Ingredients
+
 * 1 cup pearl couscous
 * 1 small red onion 
 * 1/4 cup olive oil
@@ -13,6 +17,8 @@ layout: layouts/default.html
 * 1 cup arugula 
 * 1 (8-ounce) package goat cheese, chilled and crumbled 
 * 16 cherry tomatoes
+
+## Directions 
 
 1. Cook the pearl couscous according to the package instructions and set aside.
 1. Preheat the oven broiler.
