@@ -19,3 +19,4 @@ layout: layouts/default.html
 * [Summer Couscous Salad](/summer-couscous-salad)
 * [Taco Mix](/taco-mix)
 * [Thai Red Curry Noodle Soup](/thai-red-curry-noodle-soup)
+* [Top Sirloin Steak](/top-sirloin-steak)
