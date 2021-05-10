@@ -2,7 +2,7 @@
 layout: layouts/default.html 
 ---
 
-# Asian Sriracha Chicken
+# Broccoli Cheddar Soup
 
 ## Ingredients
 

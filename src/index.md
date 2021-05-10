@@ -14,6 +14,7 @@ layout: layouts/default.html
 * [Mashed Potatoes for Two](/mashed-potatoes-for-two)
 * [Nobody But You Cockatail](/nobody-but-you-cocktail)
 * [Rigatoni Vodka Sauce](/rigatoni-vodka-sauce)
+* [Potato Curry with Coconut Milk](/potato-curry-with-coconut-milk)
 * [Slow Cooker Chicken Noodle Soup](/slow-cooker-chicken-noodle-soup)
 * [Slow Cooker Tuscan Sausage Soup](/slow-cooker-tuscan-sausage-soup)
 * [Summer Couscous Salad](/summer-couscous-salad)
