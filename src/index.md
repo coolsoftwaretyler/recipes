@@ -18,6 +18,8 @@ layout: layouts/default.html
 * [Rigatoni Vodka Sauce](/rigatoni-vodka-sauce)
 * [Risoto with Parmesan and Lemon](/risotto-with-parmesan-and-lemon)
 * [One Skillet Lemon Parmesan Chicken](/one-skillet-lemon-parmesan-chicken)
+* [Pasta with Braised Greens](/pasta-with-braised-greens)
+* [Pasta with Sausage, Basil, and Mustard](/pasta-with-sausage-basil-and-mustard)
 * [Perfect Potato Soup](/perfect-potato-soup)
 * [Potato Curry with Coconut Milk](/potato-curry-with-coconut-milk)
 * [Slow Cooker Chicken Noodle Soup](/slow-cooker-chicken-noodle-soup)

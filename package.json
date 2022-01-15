@@ -3,7 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": ".eleventy.js",
-  "dependencies": {},
+  "dependencies": {
+    "dom-parser": "^0.1.6",
+    "node-fetch": "^3.1.0",
+    "prompt": "^1.2.1",
+    "puppeteer": "^13.0.1"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^0.10.0",
     "clean-css": "^4.2.3",
@@ -11,7 +16,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "newpost": "node ./scripts/newPost.js"
+    "newpost": "node ./scripts/newPost.js",
+    "scraper": "node ./scripts/scraper.js"
   },
   "repository": {
     "type": "git",
