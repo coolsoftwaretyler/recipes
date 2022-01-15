@@ -1,3 +1,7 @@
+---
+layout: layouts/default.html
+---
+
 # Pasta with Braised Greens
 
 ## Ingredients
