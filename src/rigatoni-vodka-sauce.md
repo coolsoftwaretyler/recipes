@@ -6,17 +6,17 @@ layout: layouts/default.html
 
 ## Ingredients 
 
-Kosher salt
-1 medium onion
-4 garlic cloves
-4 oz. Parmesan cheese
-2 Tbsp. extra-virgin olive oil, plus more for drizzling
-1 4.5-oz. tube double-concentrated tomato paste
-½ tsp. crushed red pepper flakes
-2 oz. vodka
-¾ cup heavy cream
-1 lb. rigatoni
-Basil leaves (for serving)
+* Kosher salt
+* 1 medium onion
+* 4 garlic cloves
+* 4 oz. Parmesan cheese
+* 2 Tbsp. extra-virgin olive oil, plus more for drizzling
+* 1 4.5-oz. tube double-concentrated tomato paste
+* ½ tsp. crushed red pepper flakes
+* 2 oz. vodka
+* ¾ cup heavy cream
+* 1 lb. rigatoni
+* Basil leaves (for serving)
 
 ## Directions
 
