@@ -6,6 +6,7 @@ layout: layouts/default.html
 * [Asian Sriracha Chicken](/asian-sriracha-chicken)
 * [Broccoli Cheddar Soup](/broccoli-cheddar-soup)
 * [Chicken Shawarma](/chicken-shawarma)
+* [Creamy Tortellini Soup with Sausage](/creamy-tortellini-soup-with-sausage)
 * [Ham for Two](/ham-for-two)
 * [Creamy Garlic Chicken](/creamy-garlic-chicken)
 * [Garlic Butter Steak Bites](/garlic-butter-steak-bites)
