@@ -23,6 +23,7 @@ layout: layouts/default.html
 * [Pasta with Sausage, Basil, and Mustard](/pasta-with-sausage-basil-and-mustard)
 * [Perfect Potato Soup](/perfect-potato-soup)
 * [Potato Curry with Coconut Milk](/potato-curry-with-coconut-milk)
+* [Skillet Rosemary Chicken](/skillet-rosemary-chicken)
 * [Slow Cooker Chicken Noodle Soup](/slow-cooker-chicken-noodle-soup)
 * [Slow Cooker Chicken Tortilla Soup](/slow-cooker-chicken-tortilla-soup)
 * [Slow Cooker Tuscan Sausage Soup](/slow-cooker-tuscan-sausage-soup)
