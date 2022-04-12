@@ -18,6 +18,7 @@ layout: layouts/default.html
 * [Nobody But You Cockatail](/nobody-but-you-cocktail)
 * [Rigatoni Vodka Sauce](/rigatoni-vodka-sauce)
 * [Risoto with Parmesan and Lemon](/risotto-with-parmesan-and-lemon)
+* [One Pot Shells with Peas and Sasuage](/one-pot-shells-with-peas-and-sausage)
 * [One Skillet Lemon Parmesan Chicken](/one-skillet-lemon-parmesan-chicken)
 * [Pasta with Braised Greens](/pasta-with-braised-greens)
 * [Pasta with Sausage, Basil, and Mustard](/pasta-with-sausage-basil-and-mustard)
