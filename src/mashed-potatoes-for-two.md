@@ -6,12 +6,12 @@ layout: layouts/default.html
 
 ## Ingredients
 
-* Kosher salt
-* 1 1/2 pounds Yukon Gold potatoes
-* 1/2 cup whole milk or heavy cream, plus more as needed
-* 1 tablespoon unsalted butter, plus more as needed
-* 1 ounce cream cheese or sour cream, at room temperature (optional)
-* Freshly ground black pepper
+- Kosher salt
+- 1 1/2 pounds Yukon Gold potatoes
+- 1/2 cup whole milk or heavy cream, plus more as needed
+- 1 tablespoon unsalted butter, plus more as needed
+- 1 ounce cream cheese or sour cream, at room temperature (optional)
+- Freshly ground black pepper
 
 ## Directions
 
