@@ -35,6 +35,7 @@ layout: layouts/default.html
 
 ## Thanksgiving
 
+- [Classic Creamy mac and Cheese](/classic-creamy-mac-and-cheese)
 - [Cornish Game Hens with Garlic and Rosemary](/cornish-game-hens-with-garlic-and-rosemary)
 - [Cranberry Bourbon Sour](/cranberry-bourbon-sour)
 - [Cranberry Sauce Recipe](/cranberry-sauce-recipe)
