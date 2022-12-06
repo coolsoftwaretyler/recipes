@@ -6,6 +6,7 @@ layout: layouts/default.html
 - [Asian Sriracha Chicken](/asian-sriracha-chicken)
 - [Broccoli Cheddar Soup](/broccoli-cheddar-soup)
 - [Chicken Shawarma](/chicken-shawarma)
+- [Chicken with Creamy Dijon Sauce and Mashed Potatoes](/chicken-with-creamy-dijon-sauce-and-mashed-potatoes)
 - [Creamy Tortellini Soup with Sausage](/creamy-tortellini-soup-with-sausage)
 - [Ham for Two](/ham-for-two)
 - [Creamy Garlic Chicken](/creamy-garlic-chicken)
@@ -32,6 +33,7 @@ layout: layouts/default.html
 - [Slow Cooker Tuscan Sausage Soup](/slow-cooker-tuscan-sausage-soup)
 - [Summer Couscous Salad](/summer-couscous-salad)
 - [Taco Mix](/taco-mix)
+- [Thai Red Curry Noodles](/thai-red-curry-noodles)
 - [Thai Red Curry Noodle Soup](/thai-red-curry-noodle-soup)
 - [Top Sirloin Steak](/top-sirloin-steak)
 
