@@ -10,7 +10,7 @@
     "puppeteer": "^13.0.1"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy": "^1.0.2",
     "clean-css": "^4.2.3",
     "terser": "^4.6.10"
   },
