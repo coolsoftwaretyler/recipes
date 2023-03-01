@@ -6,13 +6,13 @@ layout: layouts/default.html
 
 ## Ingredients
 
-1 1/2 pounds baby red potatoes (about 2 inches in diameter),
-3 tablespoons olive oil,
-1 clove garlic, minced,
-Salt and freshly ground black pepper,
-2 tablespoons grated Parmesan cheese,
-12 to 16 ounces cooked chicken sausages, such as chicken apple, cut into 2-inch pieces,
-1 tablespoon coarsely chopped fresh parsley (optional)
+- 1 1/2 pounds baby red potatoes (about 2 inches in diameter),
+- 3 tablespoons olive oil,
+- 1 clove garlic, minced,
+- Salt and freshly ground black pepper,
+- 2 tablespoons grated Parmesan cheese,
+- 12 to 16 ounces cooked chicken sausages, such as chicken apple, cut into 2-inch pieces,
+- 1 tablespoon coarsely chopped fresh parsley (optional)
 
 ## Directions
 
