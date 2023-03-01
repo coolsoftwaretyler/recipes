@@ -6,12 +6,12 @@ layout: layouts/default.html
 
 ## Ingredients
 
-2 tablespoons olive oil,
-2 tablespoons lemon juice, freshly squeezed,
-1 tablespoon Parmesan cheese, freshly grated,
-1/2 teaspoon garlic powder,
-3/4 teaspoon salt (or to taste),
-1/4 teaspoon ground black pepper (or to taste)
+- 2 tablespoons olive oil,
+- 2 tablespoons lemon juice, freshly squeezed,
+- 1 tablespoon Parmesan cheese, freshly grated,
+- 1/2 teaspoon garlic powder,
+- 3/4 teaspoon salt (or to taste),
+- 1/4 teaspoon ground black pepper (or to taste)
 
 ## Directions
 
