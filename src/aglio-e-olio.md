@@ -12,7 +12,7 @@ layout: layouts/default.html
 * 6 cloves garlic smashed and peeled
 * 1 1/2 cups frozen peas thawed
 * 3/4 teaspoon crushed red pepper flakes
-* 1 pound fusilli lunghi or cavatappi pasta
+* 1 pound bucatini
 * 2 cups freshly grated Parmigiano-Reggiano plus more for serving
 
 ## Directions
